@@ -293,3 +293,11 @@ The scanner itself performs static file analysis; it does not attempt to execute
 This is an ongoing personal cybersecurity project.
 
 Features, detection capabilities, reporting, and the GUI may change as the project develops.
+
+## License
+
+IOCYRA is released under the **MIT License**.
+
+See [`LICENSE`](LICENSE) for the full license text.
+
+---
